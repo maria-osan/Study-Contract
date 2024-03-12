@@ -1,0 +1,8 @@
+5006 POO 1 seminar Czibula Istvan
+5022 SDA 1 laborator Maier Mariana
+0014 Geometrie 2 curs Blaga Paul
+5005 POO 2 curs Czibula Istvan
+5062 SDA 1 seminar Miholca Diana
+2014 Geometrie 2 seminar Blaga Cristina
+0123 SD 1 seminar Minuta Aurelian
+1111 a 1 curs a
